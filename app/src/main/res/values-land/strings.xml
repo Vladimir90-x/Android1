@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="family">Chernyshov</string>
+    <string name="name">Vladimir</string>
+    <string name="nameO">Vladimirovich</string>
+    <string name="email">V.V.Chernyshov@yandex.ru</string>
+    <string name="orientation">Landscape orientation</string>
+    <string name="scills">scills</string>
+</resources>
